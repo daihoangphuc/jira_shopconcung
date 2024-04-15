@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Jira_ShopConCung")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30535be0c00c3bd5481ae6ec4605d6c74b4a8770")]
 [assembly: System.Reflection.AssemblyProductAttribute("Jira_ShopConCung")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Jira_ShopConCung")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
